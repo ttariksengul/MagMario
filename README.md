@@ -35,3 +35,17 @@ Challenges and Bonuses
   available to provide advantages to the player. 
   3. Increasing Difficulty: Each level is progressively more challenging with more 
   enemies, fewer platforms, or other obstacles.
+
+
+
+
+
+Screenshots
+
+![level 1-3](https://github.com/ttariksengul/MagMario/assets/159808006/2c110ea5-3dd1-4d46-974e-332b353977ae)
+
+![level 1-3 underground](https://github.com/ttariksengul/MagMario/assets/159808006/58df494a-7a71-4999-b290-c2e3aa119003)
+
+![level 1-2](https://github.com/ttariksengul/MagMario/assets/159808006/633f5972-e0e8-40f2-b27b-6151819d7031)
+
+![level 1-1](https://github.com/ttariksengul/MagMario/assets/159808006/dd5efcd8-64b2-4937-ba7b-f0f7778d9c33)
